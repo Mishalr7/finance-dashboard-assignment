@@ -1,5 +1,6 @@
 # Finance Dashboard – Technical Documentation (Internship Assignment)
-
+## Live Demo
+https://finance-dashboard-assignment-six.vercel.app
 ## Overview
 
 This project is a responsive **Finance Dashboard Web Application** built using React. It demonstrates core frontend engineering concepts including state management, component architecture, data visualization, and role-based access control.
